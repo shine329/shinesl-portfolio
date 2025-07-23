@@ -22,6 +22,7 @@ const skills = [
   { name: "VS Code", level: 95, category: "tools" },
   { name: "Docker", level: 60, category: "tools" },
   { name: "Figma", level: 75, category: "tools" },
+  { name: "MS Office", level: 80, category: "tools" },
 ];
 
 const categories = ["all", "frontend", "backend", "tools"];
